@@ -1,0 +1,6 @@
+moofDoS:
+  isWhiteList: false
+  blockedMsg: CSNrWhiteCSN3List CSN4ONCSNr. CSN6Your IP is CSN5%0
+  onJoinMsg: CSNrWhiteCSN3List CSN5enabledCSNr.\nCSN4Only CSN5custom IPs CSN4can CSN3access CSN4to the server.
+  ips:
+  -
